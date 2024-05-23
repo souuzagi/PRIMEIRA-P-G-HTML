@@ -2,7 +2,7 @@
 ## Descrição do Projeto
 O Projeto consistia em criarmos nossa Primeira Página em HTML
 ## Tecnologias Utilizadas
-* HTML*
+* HTML
 
 **Tela Inicial**
 ![](img/imagem8.png)
