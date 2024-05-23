@@ -7,4 +7,4 @@ O Projeto consistia em criarmos nossa Primeira Página em HTML.
 **Tela Inicial**
 ![](img/imagem8.png)
 ## Autores do Projeto
-Gislaine Souza
+Gislaine Souza.
