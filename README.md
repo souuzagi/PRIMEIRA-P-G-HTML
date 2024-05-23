@@ -1,6 +1,6 @@
 # Projeto Primeira Página de HTML
 ## Descrição do Projeto
-O Projeto consistia em criarmos nossa Primeira Página em HTML
+O Projeto consistia em criarmos nossa Primeira Página em HTML.
 ## Tecnologias Utilizadas
 * HTML
 
