@@ -1,6 +1,8 @@
 # Projeto Primeira Página de HTML
 ## Descrição do Projeto
 O Projeto consistia em criarmos nossa Primeira Página em HTML
+## Tecnologias Utilizadas
+* HTML*
 
 **Tela Inicial**
 ![](img/imagem8.png)
